@@ -4,7 +4,7 @@ Right now just allows invoking no-arg actions on local or remote MBeans.
 
 To setup: Get leiningen (if you haven't already), then (assuming lein in your path):
 
-    * lein uberjar
+    $ lein uberjar
 
 To use:
 
